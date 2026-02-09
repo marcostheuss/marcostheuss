@@ -17,7 +17,7 @@ Limpeza e organização de dados
 🎯 Objetivo atual:
 Oportunidade de estágio em Análise de Dados / BI
 
-Fun Facts ✨
+✨Fun Facts: 
 Sou radiante no valorant, amo jogar.
 Odeio café , tomo a força. ☕😔
 hobbies: Academia.
