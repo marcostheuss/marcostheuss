@@ -1,16 +1,23 @@
-## Hi there 👋
+Sou Marcos Matheus, estudante de Análise de Dados e Banco de Dados.
 
-<!--
-**marcostheuss/marcostheuss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Trabalho com análise de dados focada em organização, visualização e geração de insights claros para apoiar a tomada de decisão. Atualmente estou desenvolvendo meus primeiros projetos práticos, aplicando conceitos de análise e banco de dados em cenários reais.
 
-Here are some ideas to get you started:
+💻 Stack principal:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+SQL
+Python (Pandas, NumPy)
+Power BI
+Excel
+📌 Projetos focados em:
+
+Análise exploratória de dados
+Banco de dados
+Dashboards interativos e atualizáveis no Power BI
+Limpeza e organização de dados
+🎯 Objetivo atual:
+
+Oportunidade de estágio em Análise de Dados / BI
+Fun Facts ✨
+Sou radiante no valorant, amo jogar.
+Odeio café , tomo a força. ☕😔
+hobbies: Academia.
