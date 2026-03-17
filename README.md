@@ -1,17 +1,27 @@
 Sou **Marcos Matheus**, estudante de **Análise de Dados e Banco de Dados**.
 
 ## Sobre
+## Sobre
 
+<p align="justify">
 Sou Marcos Matheus, moro em Natal (RN) e tenho 28 anos. Durante boa parte da minha vida estive muito envolvido com esportes e eSports, ambientes que me ensinaram disciplina, dedicação e trabalho em equipe.
+</p>
 
+<p align="justify">
 Cresci com uma educação bastante rígida, quase como a de um ambiente militar, onde responsabilidade e respeito sempre foram levados muito a sério. Ao longo da vida também convivi com pessoas de realidades muito diferentes, desde ambientes mais humildes até pessoas com bastante dinheiro, o que me ensinou muito sobre tratar bem as pessoas, saber ouvir e respeitar opiniões.
+</p>
 
+<p align="justify">
 Hoje estou estudando Análise de Dados e Banco de Dados e decidi dar 100% de foco nessa área. Procuro sempre me manter atualizado com o que acontece na tecnologia e entender como usar ferramentas como IA ao meu favor para evoluir mais rápido.
+</p>
 
+<p align="justify">
 Sempre tive muita vontade de aprender: se eu não sei algo, vou atrás, pesquiso e estudo até entender. Sei também que comecei essa jornada um pouco mais tarde, então procuro aproveitar bem meu tempo e dedicar boa parte do meu dia evoluindo e aprendendo.
+</p>
 
+<p align="justify">
 Ainda estou no começo da jornada, mas totalmente comprometido em evoluir todos os dias.
-
+</p>
 ---
 
 ### 💻 Stack Principal
