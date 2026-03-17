@@ -39,6 +39,11 @@ Focado na **automação de processos de manipulação e análise de dados**, red
 ![Inteligência Artificial](https://img.shields.io/badge/AI_Assisted_Analytics-8A2BE2?style=flat)
 Utilizada como suporte para **acelerar desenvolvimento de código**, **exploração de dados** e **otimização de fluxos de análise**.
 
+### 🌎 Idiomas
+
+![Portuguese](https://img.shields.io/badge/Portuguese-Native-green?style=flat)
+![English](https://img.shields.io/badge/English-Intermediate-blue?style=flat)
+
 # 📊 Projetos
 
 Este repositório reúne projetos voltados para análise de dados, automação e desenvolvimento de soluções analíticas.
