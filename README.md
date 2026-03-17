@@ -21,8 +21,6 @@ Analista de Dados com foco em automação e eficiência analítica, desenvolvend
 
 ### ⚙️ Aplicação das Ferramentas
 
-### ⚙️ Aplicação das Ferramentas
-
 **SQL**  
 Utilizado para **extração, manipulação e organização de dados**, permitindo analisar **grandes volumes de informação de forma estruturada**.
 
