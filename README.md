@@ -8,7 +8,7 @@ Sou Marcos Matheus, moro em Natal (RN) e tenho 28 anos. Durante boa parte da min
 </p>
 
 <p align="justify">
-Cresci com uma educação bastante rígida, quase como a de um ambiente militar, onde responsabilidade e respeito sempre foram levados muito a sério. Ao longo da vida também convivi com pessoas de realidades muito diferentes, desde ambientes mais humildes até pessoas com bastante dinheiro, o que me ensinou muito sobre tratar bem as pessoas, saber ouvir e respeitar opiniões.
+Cresci com uma educação bastante rígida, quase como a de um ambiente militar, onde responsabilidade e respeito sempre foram levados muito a sério. Ao longo da vida também convivi com pessoas de realidades muito diferentes, desde ambientes mais humildes até pessoas com bastante dinheiro. Isso me ensinou a entender que cada pessoa enxerga o mundo de uma forma diferente, e acabou me ajudando a desenvolver respeito pelas opiniões dos outros, saber ouvir com atenção e tratar qualquer pessoa com educação e consideração, independentemente de quem ela seja.
 </p>
 
 <p align="justify">
