@@ -22,27 +22,21 @@ Analista de Dados com foco em automação e eficiência analítica, desenvolvend
 ### ⚙️ Aplicação das Ferramentas
 
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlite&logoColor=white)
-
 Utilizado para **extração, manipulação e organização de dados**, permitindo analisar **grandes volumes de informação de forma estruturada**.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
 Aplicado na **análise exploratória de dados (EDA)**, **limpeza de datasets**, **automação de tarefas analíticas** e tratamento de dados utilizando **Pandas** e **NumPy**.
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-
 Utilizado para **desenvolvimento de dashboards interativos** e **visualizações de dados**, permitindo identificar **padrões, tendências e indicadores estratégicos**.
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-
 Aplicado na **organização de dados**, **análises rápidas** e apoio em **processos de exploração de dados**.
 
 ![Data Automation](https://img.shields.io/badge/Data_Automation-0A66C2?style=flat)
-
 Focado na **automação de processos de manipulação e análise de dados**, reduzindo **tarefas manuais** e aumentando **eficiência operacional**.
 
 ![Inteligência Artificial](https://img.shields.io/badge/AI_Assisted_Analytics-8A2BE2?style=flat)
-
 Utilizada como suporte para **acelerar desenvolvimento de código**, **exploração de dados** e **otimização de fluxos de análise**.
 
 # 📊 Projetos
