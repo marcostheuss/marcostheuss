@@ -2,7 +2,15 @@ Sou **Marcos Matheus**, estudante de **Análise de Dados e Banco de Dados**.
 
 ## Sobre
 
-Analista de Dados com foco em automação e eficiência analítica, desenvolvendo análises no fluxo completo (End-to-End): desde a extração de dados com SQL, tratamento e exploração com Python até a construção de dashboards estratégicos no Power BI. Aplico Inteligência Artificial e Engenharia de Prompt para acelerar análises, automatizar tarefas e otimizar processos de tomada de decisão baseados em dados.
+Sou Marcos Matheus, moro em Natal (RN) e tenho 28 anos. Durante boa parte da minha vida estive muito envolvido com esportes e eSports, ambientes que me ensinaram disciplina, dedicação e trabalho em equipe.
+
+Cresci com uma educação bastante rígida, quase como a de um ambiente militar, onde responsabilidade e respeito sempre foram levados muito a sério. Ao longo da vida também convivi com pessoas de realidades muito diferentes, desde ambientes mais humildes até pessoas com bastante dinheiro, o que me ensinou muito sobre tratar bem as pessoas, saber ouvir e respeitar opiniões.
+
+Hoje estou estudando Análise de Dados e Banco de Dados e decidi dar 100% de foco nessa área. Procuro sempre me manter atualizado com o que acontece na tecnologia e entender como usar ferramentas como IA ao meu favor para evoluir mais rápido.
+
+Sempre tive muita vontade de aprender: se eu não sei algo, vou atrás, pesquiso e estudo até entender. Sei também que comecei essa jornada um pouco mais tarde, então procuro aproveitar bem meu tempo e dedicar boa parte do meu dia evoluindo e aprendendo.
+
+Ainda estou no começo da jornada, mas totalmente comprometido em evoluir todos os dias.
 
 ---
 
