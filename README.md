@@ -21,23 +21,26 @@ Analista de Dados com foco em automação e eficiência analítica, desenvolvend
 
 ### ⚙️ Aplicação das Ferramentas
 
-🔴 **SQL**  
+### ⚙️ Aplicação das Ferramentas
+
+**SQL**  
 Utilizado para **extração, manipulação e organização de dados**, permitindo analisar **grandes volumes de informação de forma estruturada**.
 
-🐍 **Python**  
+**Python**  
 Aplicado na **análise exploratória de dados (EDA)**, **limpeza de datasets**, **automação de tarefas analíticas** e tratamento de dados utilizando **Pandas** e **NumPy**.
 
-📊 **Power BI**  
+**Power BI**  
 Utilizado para **desenvolvimento de dashboards interativos** e **visualizações de dados**, permitindo identificar **padrões, tendências e indicadores estratégicos**.
 
-📗 **Excel**  
+**Excel**  
 Aplicado na **organização de dados**, **análises rápidas** e apoio em **processos de exploração de dados**.
 
-⚙️ **Data Automation**  
+**Data Automation**  
 Focado na **automação de processos de manipulação e análise de dados**, reduzindo **tarefas manuais** e aumentando **eficiência operacional**.
 
-🤖 **Inteligência Artificial**  
+**Inteligência Artificial**  
 Utilizada como suporte para **acelerar desenvolvimento de código**, **exploração de dados** e **otimização de fluxos de análise**.
+
 ---
 
 # 📊 Projetos
