@@ -21,24 +21,25 @@ Analista de Dados com foco em automação e eficiência analítica, desenvolvend
 
 ### ⚙️ Aplicação das Ferramentas
 
-**SQL**  
-Utilizado para extração, manipulação e organização de dados, permitindo analisar grandes volumes de informação de forma estruturada.
+### ⚙️ Aplicação das Ferramentas
 
-**Python**  
-Aplicado na análise exploratória de dados, limpeza de datasets, automação de tarefas analíticas e tratamento de informações utilizando bibliotecas como Pandas e NumPy.
+<strong style="color:red;">SQL</strong>  
+Utilizado para **extração, manipulação e organização de dados**, permitindo analisar **grandes volumes de informação de forma estruturada**.
 
-**Power BI**  
-Utilizado para desenvolvimento de dashboards e visualizações que permitem identificar padrões, tendências e indicadores estratégicos.
+<strong style="color:red;">Python</strong>  
+Aplicado na **análise exploratória de dados (EDA)**, **limpeza de datasets**, **automação de tarefas analíticas** e tratamento de dados utilizando **Pandas** e **NumPy**.
 
-**Excel**  
-Aplicado na organização de dados, análise rápida de informações e apoio em processos de análise exploratória.
+<strong style="color:red;">Power BI</strong>  
+Utilizado para **desenvolvimento de dashboards interativos** e **visualizações de dados**, permitindo identificar **padrões, tendências e indicadores estratégicos**.
 
-**Data Automation**  
-Automação de processos relacionados à manipulação e análise de dados, reduzindo tarefas manuais e aumentando eficiência operacional.
+<strong style="color:red;">Excel</strong>  
+Aplicado na **organização de dados**, **análises rápidas** e apoio em **processos de exploração de dados**.
 
-**Inteligência Artificial**  
-Uso de IA como suporte para acelerar desenvolvimento de código, exploração de dados e otimização de fluxos de análise.
+<strong style="color:red;">Data Automation</strong>  
+Focado na **automação de processos de manipulação e análise de dados**, reduzindo **tarefas manuais** e aumentando **eficiência operacional**.
 
+<strong style="color:red;">Inteligência Artificial</strong>  
+Utilizada como suporte para **acelerar desenvolvimento de código**, **exploração de dados** e **otimização de fluxos de análise**.
 ---
 
 # 📊 Projetos
